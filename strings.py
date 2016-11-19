@@ -4,6 +4,7 @@ if lo == 'EN':
     txt_title = 'Text Editor'
 
     txt_file = 'File'
+    txt_new = 'New'
     txt_open = 'Open'
     txt_save = 'Save'
     txt_exit = 'Exit'
